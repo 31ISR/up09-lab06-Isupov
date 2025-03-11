@@ -18,8 +18,8 @@ class TodoFactory extends Factory
      {
          return [
              'name'=> fake()->realText(75),
-             'done' => 1,
-             'urgent' => 0,
+             'done' => fake()->boolean(),
+             'urgent' => fake()->boolean(),
              'dateCompleted' => fake()->dateTime('now'),
          ];
      }
