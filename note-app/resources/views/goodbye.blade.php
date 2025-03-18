@@ -1,15 +1,5 @@
-<!-- <!DOCTYPE html>
-<html lang="ru">
-    <head>
-        <meta charset="utf-8">
 
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Laravel</title>
-    </head>
-    <body>
-        <h1>Goodbye</h1>
-    </body>
-</html> -->
-<x-layout>
+<x-layout class="dsp">
     <h1>Goodbye</h1>
+    <button type="button">писька</button>
 </x-layout>
