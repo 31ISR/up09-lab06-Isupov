@@ -1,4 +1,4 @@
-<div>
-    <!-- People find pleasure in different ways. I find it in keeping my mind clear. - Marcus Aurelius -->
+<x-layout>
     <h1>edit</h1>
-</div>
+</x-layout>
+

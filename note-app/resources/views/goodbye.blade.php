@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="ru">
     <head>
         <meta charset="utf-8">
@@ -9,4 +9,7 @@
     <body>
         <h1>Goodbye</h1>
     </body>
-</html>
+</html> -->
+<x-layout>
+    <h1>Goodbye</h1>
+</x-layout>

@@ -1,4 +1,4 @@
-<div>
-    <!-- Happiness is not something readymade. It comes from your own actions. - Dalai Lama -->
+ <x-layout>
     <h1>show</h1>
-</div>
+</x-layout>
+

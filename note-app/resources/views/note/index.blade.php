@@ -1,4 +1,4 @@
-<div>
-    <!-- Be present above all else. - Naval Ravikant -->
+<x-layout>
     <h1>index</h1>
-</div>
+</x-layout>
+

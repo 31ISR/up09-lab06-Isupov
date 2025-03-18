@@ -1,4 +1,3 @@
-<div>
-    <!-- It is not the man who has too little, but the man who craves more, that is poor. - Seneca -->
+<x-layout>
     <h1>show</h1>
-</div>
+</x-layout>

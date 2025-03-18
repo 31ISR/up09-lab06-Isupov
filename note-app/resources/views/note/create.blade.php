@@ -1,4 +1,4 @@
-<div>
-    <!-- Order your soul. Reduce your wants. - Augustine -->
+<x-layout>
     <h1>create</h1>
-</div>
+</x-layout>
+
